@@ -1,0 +1,5 @@
+venv/
+.env
+other api's/
+gemi_api.py
+open_gemi.py
